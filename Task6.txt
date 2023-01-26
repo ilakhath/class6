@@ -1,0 +1,18 @@
+Task6
+1. Why we use loops?
+A. Definition: Loops are a programming element that repeat a portion of code a set number of times until the desired process is complete. Repetitive tasks are common in programming
+
+2 What is while loop?
+ A."While" Loop is used to repeat a specific block of code an unknown number of times, until a condition is met.
+
+ 3.What is iterator in loop?
+ A. An iterator is an object that contains a countable number of values. An iterator is an object that can be iterated upon, meaning that you can traverse through all the values.
+
+4. What is increment in loop?
+A. Increment is an expression that determines how the loop control variable is incremented each time the loop repeats successfully 
+
+5. why we use range function?
+A. it is used to generate a sequence of numbers. If the user wants to generate a sequence of numbers given the starting and the ending values then they can give these values as parameters of the range()
+
+Task6 class6
+
